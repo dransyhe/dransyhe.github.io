@@ -60,7 +60,7 @@
             {%- endfor -%}
           {%- endif -%}
 
-          {%- if forloop.length > 1 -%}
+          {%- if forloop.length > 1 && forloop.length != 2 -%}
             {%- if forloop.first == false -%},&nbsp;{%- endif -%}
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
