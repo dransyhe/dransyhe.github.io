@@ -2,11 +2,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Engineering
+    - title: Master of Engineering, Computer Science
       institution: University of Cambridge
       year: 2022-2023
       description: Pass with Distinction
-    - title: Bachelor of Arts
+    - title: Bachelor of Arts, Computer Science
       institution: University of Cambridge
       year: 2019-2022
       description: First Class Honours
@@ -25,20 +25,22 @@
       year: 2020
 
 - title: Honors and Awards
-  type: list
+  type: nested_list
   contents:
-    - School of Engineering Fellowship, Stanford University, 2023-2024
-    - Rosemary Murray Scholarship, Murray Edwards College Cambridge, 2022+2023
-    - Best Dissertation Award, Department of Computer Science and Technology, University of Cambridge, 2022
-    - Best Paper Finalist, GroundedML Workshop @ ICLR 2022
+    - items:
+      - School of Engineering Fellowship, Stanford University, 2023-2024
+      - Rosemary Murray Scholarship, Murray Edwards College Cambridge, 2022+2023
+      - Best Dissertation Award, Department of Computer Science and Technology, University of Cambridge, 2022
+      - Best Paper Finalist, GroundedML Workshop @ ICLR 2022
 
 - title: Volunteering and Outreach
-  type: list
+  type: nested_list
   contents:
-    - Deputy Chair, women@CL, 2022-2023
-    - Publicity Officer, Cambridge University Education Development Trust, 2021-2022
-    - Weekly Instructor, Code First Girls, 2020
-    - Social Officer, International Students Campaign, 2020-2021
-    - Weekly Tutor, Ulu Pandan Stars Programme, 2017-2018
+    - items:
+      - Deputy Chair, women@CL, 2022-2023
+      - Publicity Officer, Cambridge University Education Development Trust, 2021-2022
+      - Weekly Instructor, Code First Girls, 2020
+      - Social Officer, International Students Campaign, 2020-2021
+      - Weekly Tutor, Ulu Pandan Stars Programme, 2017-2018
 
 
