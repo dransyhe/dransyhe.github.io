@@ -19,7 +19,7 @@ I am learning the Tibetan language, see [Lhasa Tibetan](https://en.wikipedia.org
 My favourite thing in this world is [baozi](https://en.wikipedia.org/wiki/Baozi), especially [tangbao](https://www.tripadvisor.co.uk/Restaurant_Review-g294220-d3402812-Reviews-JiMing_Tangbao_MingWa_Lang-Nanjing_Jiangsu.html), 
 [shengjianbao](https://www.tripadvisor.co.uk/Restaurant_Review-g308272-d4048556-Reviews-XiaoYang_ShengJian_ShanXi_North_Road-Shanghai.html), 
 and [momo](https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d12991530-Reviews-Tibet_Kitchen_London-London_England.html). 
-I have explored all Tibetan restaurants I know in the UK. 
+I explored all Tibetan restaurants I know in the UK. 
 
 I have lived in Shanghai, Nanjing, Singapore, Cambridge, and London. Currently based in Palo Alto, California. 
 
