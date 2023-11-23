@@ -13,7 +13,7 @@ Thanks to Singapore's effort in addressing different name orders,
 I am used to being called as "He Yu" in the English context. 
 Nowadays, I chose to go by "Heyu" for less (or maybe more) confusion. 
 
-For Cambridge CompScis, here's something about [How to do well in Part II dissertation](https://dransyhe.github.io/blog/2022/part-ii-dissertation/).
+For Cambridge CompScis, here's some [advice for Part II dissertation](https://dransyhe.github.io/blog/2022/part-ii-dissertation/).
 
 I am learning the Tibetan language, 
 specifically the [Lhasa Tibetan](https://en.wikipedia.org/wiki/Lhasa_Tibetan).
@@ -24,7 +24,7 @@ A family photo of me & [Han](https://han.wales/):
 
 ![family](../assets/img/family.jpg){:height="270px" width="360px" style="margin:auto; display:block;"}  
 <p align="center">
-*feat. Millie, Molly, Poppy, and Sammy - left to right*
+<em>feat. Millie, Molly, Poppy, and Sammy - left to right<em>
 </p>
 
 

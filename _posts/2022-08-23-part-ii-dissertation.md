@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to do well in Part II Dissertation
+title: Advice for Part II Dissertation
 date: 2022-08-23
 description: an example of a blog post with bibliography
 giscus_comments: false
