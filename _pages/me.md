@@ -21,13 +21,9 @@ My favourite thing in this world is [Baozi](https://en.wikipedia.org/wiki/Baozi)
 I explored all Tibetan restaurants I know in the UK.
 
 A family photo of me & [Han](https://han.wales/):  
-![family](../assets/img/family.jpg){:height="270px" width="360px"}
-*feat. Millie, Molly, Poppy, and Sammy - left to right*
-
-<!---
 ![family](../assets/img/family.jpg){:height="270px" width="360px" style="margin:auto; display:block;"}
 <p align="center"><em>feat. Millie, Molly, Poppy, and Sammy - left to right</em></p>
--->
+
 
 
 
