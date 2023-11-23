@@ -20,7 +20,7 @@ specifically the [Lhasa Tibetan](https://en.wikipedia.org/wiki/Lhasa_Tibetan).
 My favourite thing in this world is [Baozi](https://en.wikipedia.org/wiki/Baozi), especially Tibetan momos. 
 I explored all Tibetan restaurants I know in the UK.
 
-A family photo of me & [Han](https://han.wales/): 
+A family photo of me & [Han](https://han.wales/):  
 ![family](../assets/img/family.jpg){:height="270px" width="360px"}
 *feat. Millie, Molly, Poppy, and Sammy - left to right*
 
