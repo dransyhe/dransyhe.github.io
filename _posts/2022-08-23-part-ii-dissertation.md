@@ -63,3 +63,6 @@ The dissertation is the only component marked by the examiners. I personally thi
 **Post-dissertation: How to respond to the marks?**
 
 After a year of dedication, the dissertation is definitely very special to you! I found my Part II project to be the absolute highlight of my undergraduate years, even before receiving the marks. I am forever grateful to my supervisors and everyone I got to know because of this project. I want to say that even though our dissertations are labeled with some marks, these numbers do not reflect the actual experience and achievement. This is different from exams, and there is much stochasticity involved! What really matters is how you personally feel about your project and, most importantly, what you take away from it. Don’t let external evaluation metrics affect your own judgment.
+
+Extra: My [Part II](..%2Fassets%2Fpdf%2Fpart-ii-dissertation.pdf) 
+and [Part III](..%2Fassets%2Fpdf%2Fpart-iii-dissertation.pdf) dissertations.
