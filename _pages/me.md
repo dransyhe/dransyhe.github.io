@@ -21,9 +21,13 @@ My favourite thing in this world is [baozi](https://en.wikipedia.org/wiki/Baozi)
 and [momos](https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d12991530-Reviews-Tibet_Kitchen_London-London_England.html). 
 I have explored all Tibetan restaurants I know in the UK. 
 
+I have lived in Shanghai, Nanjing, Singapore, Cambridge, and London. Currently based in Palo Alto, California. 
+
+<!--
 A family photo of me & [Han](https://han.wales/):  
 ![family](../assets/img/family.jpg){:height="270px" width="360px" style="margin:auto; display:block;"}
 <p align="center"><em>feat. Millie, Molly, Poppy, and Sammy - left to right</em></p>
+-->
 
 
 
