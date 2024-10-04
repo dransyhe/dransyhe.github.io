@@ -15,6 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Heyu, a first-year CS PhD student at Stanford. Previously, I graduated from University of 
-Cambridge with BA+MEng in Computer Science, where I was supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). 
+Hi, I am Heyu, a second-year CS PhD student at Stanford, where I am fortunate to be advised by [Ellen Vitercik](https://vitercik.github.io/). 
+Previously, I graduated from University of Cambridge with BA+MEng in Computer Science, where I was supervised by [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). 
+My research interests lie in graph neural networks, geometric deep learning, and their applications in combinatorial optimization. 
 

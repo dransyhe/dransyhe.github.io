@@ -13,9 +13,19 @@ Nowadays, I chose to go by "Heyu" for less (or maybe more) confusion.
 
 For Cambridge CompScis, here's some [advice for Part II dissertation](https://dransyhe.github.io/blog/2022/part-ii-dissertation/).
 
-I am learning [Lhasa Tibetan](https://en.wikipedia.org/wiki/Lhasa_Tibetan). I warmly welcome any discussion on the topic if you share similar 
-interests.  
+I am learning [Lhasa Tibetan](https://en.wikipedia.org/wiki/Lhasa_Tibetan). Here is a Tibetan poem that I love:
 
+<center>
+བྲིས་པའི་ཡི་གེ་ནག་ཅུང།<br>
+ཆུ་དང་ཐིག་པས་བཤིགས་སོང།             <br>
+མ་བྲིས་སེམས་ཀྱི་རི་མོ།       <br>
+བསུབས་ཀྱང་ཟུབ་རྒྱུ་མི་འདུག།  <br>
+
+Little letters written in black,   <br>
+Are washed away by raindrops;  <br>
+Unwritten lines on the heart,  <br>
+Can never be erased.<br>
+</center>
 
 <!--
 A family photo of me & [Han](https://han.wales/):  
