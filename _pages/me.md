@@ -13,7 +13,7 @@ Nowadays, I chose to go by "Heyu" for less (or maybe more) confusion.
 
 For Cambridge CompScis, here's some [advice for Part II dissertation](https://dransyhe.github.io/blog/2022/part-ii-dissertation/).
 
-I am learning [Lhasa Tibetan](https://en.wikipedia.org/wiki/Lhasa_Tibetan). Here is a Tibetan poem that I love:
+I am learning Tibetan. Here is something that I'd like to share:
 
 <center>
 བྲིས་པའི་ཡི་གེ་ནག་ཅུང།<br>
@@ -26,13 +26,6 @@ Are washed away by raindrops;  <br>
 Unwritten lines on the heart,  <br>
 Can never be erased.<br>
 </center>
-
-<!--
-A family photo of me & [Han](https://han.wales/):  
-![family](../assets/img/family.jpg){:height="270px" width="360px" style="margin:auto; display:block;"}
-<p align="center"><em>feat. Millie, Molly, Poppy, and Sammy - left to right</em></p>
--->
-
 
 
 
